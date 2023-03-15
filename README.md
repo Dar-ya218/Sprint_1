@@ -1,5 +1,5 @@
 
-S1. HTML y CSS
+S1. HTML y CSS;
 
 Ten en cuenta las siguientes consideraciones. Son errores habituales en las entregas:
 
